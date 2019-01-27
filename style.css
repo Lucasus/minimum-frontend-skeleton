@@ -1,0 +1,17 @@
+.cell-alive {
+  background-color: green;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
+}
+
+.cell-dead {
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
+}
+
+.cell-table {
+  border-spacing: unset;
+}
